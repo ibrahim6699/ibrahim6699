@@ -1,9 +1,9 @@
 👋 Hello World! I'm Ibrahim Ibrahim, a passionate full stack developer based in syria. My coding journey began 3 years ago, and I'm constantly exploring new technologies and pushing my boundaries.
 
-🚀 Currently, I'm diving deep into javaScript, honing my skills in react. I'm fascinated by responsive web design and accessibility, and I'm always eager to collaborate on innovative and impactful projects.
+🚀 Currently, I'm diving deep into JavaScript, honing my skills in React. I'm fascinated by responsive web design and accessibility, and I'm always eager to collaborate on innovative and impactful projects.
 
 🔧 Tech Stack:
-- 💻 Languages: [python, javaScript,c(Arduino),c++]
+- 💻 Languages: [python, javaScript, c(Arduino), c++]
 - 🛠️ Frameworks: [django, react , bootstrap(UI Framework)]
 - 🌐 Web Technologies: [HTML, CSS, JavaScript, Saas(learning now)]
 - 📦 goals: [pytorch, tensorflow , opencv, Arduino]

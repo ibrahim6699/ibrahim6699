@@ -4,9 +4,9 @@
 
 🔧 Tech Stack:
 - 💻 Languages: [python, javaScript, c(Arduino), c++]
-- 🛠️ Frameworks: [django, react , bootstrap(UI Framework)]
+- 🛠️ Frameworks: [django, react.js , bootstrap(UI Framework)]
 - 🌐 Web Technologies: [HTML, CSS, JavaScript, Saas(learning now)]
-- 📦 goals: [pytorch, tensorflow , opencv, Arduino]
+- 📦 goals: [next.js, pytorch, tensorflow , opencv, Arduino]
 
 🌱 I believe in the power of open source and the community-driven development model. My repositories showcase a mix of personal projects, experiments, and contributions to open source. Feel free to explore and contribute—it's all about learning and growing together!
 
